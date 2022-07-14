@@ -30,7 +30,7 @@
 ### :technologist: About Me :
 I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana with over 7 years experience in the banking, telecom and oil & gas sector, also in Web development and data engineering.
  - :telescope: I’m a student at ALX studying Software Engineering, working as a middleware engineer specialised in the Enterprise Service Bus(ESB) from IBM and contributing to frontend and backend for building web applications and finally working in the data space.
- - :zap: Explore tech stuffs on the web and solve technical issues in my field of expertise on daily basis.
+ - :zap: Exploring tech stuffs on the web and solve technical issues in my field of expertise on daily basis.
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/essienne-felix-607a3769) or [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](nanaitconsult@gmail.com)
 
 ---
