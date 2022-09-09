@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="nana_essien"/>
   </a>
 </div>
-  
 <div id="badges">
  <a href="https://twitter.com/nana_essien" target="blank"><img src="https://img.shields.io/twitter/follow/nana_essien?color=blue&logo=twitter&style=flat-square" alt="nana_essien"/></a>
     <a href="https://github.com/essien1990" target="blank"><img src="https://img.shields.io/github/followers/essien1990?color=important&logo=github&style=flat-square" alt="essien1990"/></a>
@@ -68,6 +67,7 @@ I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant"  alt="Vagrant" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac Os"  alt="Mac Os" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="postman" width="40" height="40"/>
 </p>
 
 ---
@@ -79,5 +79,11 @@ I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=essien1990&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=essien1990&show_icons=true&theme=vision-friendly-dark)
+
+<p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=essien1990&theme=gruvbox&no-frame=true&no-bg=true" alt="essien1990"/>
+</a>
+</p>
 
 ---
