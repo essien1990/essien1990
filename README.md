@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/https://www.linkedin.com/in/essienne-felix-607a3769"/>
   </a>
   <a href="https://www.instagram.com/felix.essienne/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white"          alt="https://www.instagram.com/felix.essienne/"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white" alt="https://www.instagram.com/felix.essienne/"/>
   </a>
   <a href="https://twitter.com/nana_essien" target="blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="nana_essien"/>
