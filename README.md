@@ -74,7 +74,7 @@ I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=essien1990&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=essien1990&theme=tokyonight)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=essien1990&theme=onedark)](https://github.com/essien1990/streak-stats) -->
 
