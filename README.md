@@ -73,7 +73,7 @@ I am a tech enthusiast, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=essien1990&theme=onedark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=essien1990&theme=onedark)](https://git.io/streak-stats)
 
 <p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
